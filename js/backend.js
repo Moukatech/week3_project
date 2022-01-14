@@ -15,4 +15,25 @@ $(document).ready(function(){
     $("img#proj1").hover(function(){
       $("p#work1").show();
     });
+    $("img#proj2").hover(function(){
+      $("p#work2").show();
+    });
+    $("img#proj3").hover(function(){
+      $("p#work3").show();
+    });
+    $("img#proj4").hover(function(){
+      $("p#work4").show();
+    });
+    $("img#proj5").hover(function(){
+      $("p#work5").show();
+    });
+    $("img#proj6").hover(function(){
+      $("p#work6").show();
+    });
+    $("img#proj7").hover(function(){
+      $("p#work7").show();
+    });
+    $("img#proj8").hover(function(){
+      $("p#work8").show();
+    });
 });
