@@ -12,5 +12,7 @@ $(document).ready(function(){
       $("p#product-dis").toggle();
       $("img#img-product").toggle();
     });
-
+    $("img#proj1").hover(function(){
+      $("p#work1").show();
+    });
 });
