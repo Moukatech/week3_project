@@ -36,6 +36,7 @@ $(document).ready(function(){
     $("img#proj8").hover(function(){
       $("p#work8").show();
     });
+    // process user add in the contact us section
     $("#submit").click(function(){
       var nameInput = $("input#name").val();
       var emailInput = $("input#email").val();
